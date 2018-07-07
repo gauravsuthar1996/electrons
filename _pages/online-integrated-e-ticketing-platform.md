@@ -1,6 +1,8 @@
 ---
 ID: 76
-post_title: Online integrated E-ticketing Platform
+post_title: >
+  E-TicketSthan Online integrated
+  E-ticketing Platform
 author: admin
 post_excerpt: ""
 layout: page
