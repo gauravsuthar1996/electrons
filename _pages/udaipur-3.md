@@ -1,10 +1,11 @@
 ---
 ID: 237
-post_title: ""
+post_title: Udaipur
 author: admin
 post_excerpt: ""
 layout: page
-permalink: https://demo.rajasthanblog.org/237-2/
+permalink: >
+  https://demo.rajasthanblog.org/udaipur-3/
 published: true
 post_date: 2018-07-07 12:40:23
 ---
