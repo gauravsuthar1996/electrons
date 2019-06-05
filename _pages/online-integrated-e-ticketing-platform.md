@@ -12,21 +12,47 @@ post_date: 2018-07-06 15:01:27
   [bookly-form show_number_of_persons="1" hide="week_days,time_range"]
 </p> [/et_pb_fullwidth_header][/et_pb_section][et_pb_section bb_built="1" custom_padding="54px|0px|0px|0px" \_builder\_version="3.0.64"][et_pb_row custom_padding="27px|0px|22px|0px" \_builder\_version="3.0.64" background_size="initial" background_position="top_left" background_repeat="repeat" background_position_1="top_left" background_repeat_1="no-repeat" background_position_2="top_left" background_repeat_2="no-repeat"][et_pb_column type="1_2"][et_pb_text \_builder\_version="3.0.64" background_size="initial" background_position="top_left" background_repeat="repeat" background_layout="light" text_orientation="left" border_style="solid"] 
 
-## <span style="color: #000000;"><strong>What is Kota Lantern Festival?</strong></span>
+<h3 style="text-align: center;">
+  <span style="color: #000000;"><strong>What is Kota Lantern Festival?</strong></span>
+</h3>
 
-<span style="color: #000000;">Kota Lantern Festival, the 3 glowing words itself speak about the importance of pleasant, social atmosphere free from anything.</span> <span style="color: #000000;">This event is not a one-day entertaining program but a series of events held one month prior to the event with “<strong>viral</strong>” campaigns amongst the growing youth in various schools  , flashmobs and drama plays organized at various locations of city to promote the purpose of pollution-free Diwali and make clean India with their pure hearts and to follow their word of mouth through oath ceremonies so that these motivated thoughts run through them.</span> 
-## 
+<p style="text-align: center;">
+  <span style="color: #000000;">Kota Lantern Festival, the 3 glowing words itself speak about the importance of pleasant, social atmosphere free from anything.</span>
+</p>
 
-<p style="text-align: left;">
-</p> [/et_pb_text][/et_pb_column][et_pb_column type="1_2"][et_pb_text \_builder\_version="3.0.64" background_size="initial" background_position="top_left" background_repeat="repeat" background_layout="light" text_orientation="left" border_style="solid"] 
+<p style="text-align: center;">
+  <span style="color: #000000;">This event is not a one-day entertaining program but a series of events held one month prior to the event with “<strong>viral</strong>” campaigns amongst the growing youth in various schools  , flashmobs and drama plays organized at various locations of city to promote the purpose of pollution-free Diwali and make clean India with their pure hearts and to follow their word of mouth through oath ceremonies so that these motivated thoughts run through them.</span>
+</p>
 
-## <span style="color: #000000;"><strong>Kota Lantern Festival 2019 Coming Soon!!</strong></span>
+<h2 style="text-align: center;">
+</h2> [/et_pb_text][/et_pb_column][et_pb_column type="1_2"][et_pb_text \_builder\_version="3.0.64" background_size="initial" background_position="top_left" background_repeat="repeat" background_layout="light" text_orientation="left" border_style="solid"] 
 
-<span style="color: #000000;">Get ready to rock with the fusion of Fun, Food, DJ Party, Music, Lanterns, and tons of Pre-Diwali entertainment in Kota City with "<strong>Kota Lantern Festival 2019</strong>." A unique concept to celebrate clean and safe Diwali in your own way with the flying lanterns in the sky</span> <span style="color: #000000;">The <strong>KLF</strong> provide a one fine evening for all walks of like to gather together on stage to spread their dreams into open space with the glorious lanterns and make it a shining event of Kota.</span> <span style="color: #000000;"><strong>Biggest and most loved festival of Kota City.</strong></span> <span style="color: #000000;"><em><strong>Stay tuned for Something bigger and more better in this year 2019!</strong></em></span> <span style="color: #000000;"> </span> <div class="event-description-html">
-</div>
+<h3 style="text-align: center;">
+  <span style="color: #000000;"><strong>Kota Lantern Festival 2019 Coming Soon!!</strong></span>
+</h3>
 
-<p style="text-align: left;">
-</p> [/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section bb_built="1" custom_padding="0px|0px|0px|0px" fullwidth="on" \_builder\_version="3.0.64"][et_pb_fullwidth_image \_builder\_version="3.0.64" /][/et_pb_section][et_pb_section bb_built="1" background_color="#2ea3f2" custom_padding="0px|0px|0px|0px" \_builder\_version="3.0.64" use_background_color_gradient="on" background_color_gradient_start="#e09900" background_color_gradient_end="#0c71c3" background_color_gradient_direction="305deg" background_color_gradient_start_position="59%"][et_pb_row \_builder\_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="1_2"][et_pb_divider height="90" \_builder\_version="3.0.64" /][et_pb_text background_layout="dark" \_builder\_version="3.0.64" background_size="initial" background_position="top_left" background_repeat="repeat"] 
+<p style="text-align: center;">
+  <span style="color: #000000;">Get ready to rock with the fusion of Fun, Food, DJ Party, Music, Lanterns, and tons of Pre-Diwali entertainment in Kota City with "<strong>Kota Lantern Festival 2019</strong>." A unique concept to celebrate clean and safe Diwali in your own way with the flying lanterns in the sky</span>
+</p>
+
+<p style="text-align: center;">
+  <span style="color: #000000;">The <strong>KLF</strong> provide a one fine evening for all walks of like to gather together on stage to spread their dreams into open space with the glorious lanterns and make it a shining event of Kota.</span>
+</p>
+
+<p style="text-align: center;">
+  <span style="color: #000000;"><strong>Biggest and most loved festival of Kota City.</strong></span>
+</p>
+
+<p style="text-align: center;">
+  <span style="color: #000000;"><em><strong>Stay tuned for Something bigger and more better in this year 2019!</strong></em></span>
+</p>
+
+<p style="text-align: center;">
+  <span style="color: #000000;"> </span>
+</p>
+
+<div class="event-description-html" style="text-align: center;">
+</div> [/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section bb_built="1" custom_padding="0px|0px|0px|0px" fullwidth="on" \_builder\_version="3.0.64"][et_pb_fullwidth_image \_builder\_version="3.0.64" /][/et_pb_section][et_pb_section bb_built="1" background_color="#2ea3f2" custom_padding="0px|0px|0px|0px" \_builder\_version="3.0.64" use_background_color_gradient="on" background_color_gradient_start="#e09900" background_color_gradient_end="#0c71c3" background_color_gradient_direction="305deg" background_color_gradient_start_position="59%"][et_pb_row \_builder\_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="1_2"][et_pb_divider height="90" \_builder\_version="3.0.64" /][et_pb_text background_layout="dark" \_builder\_version="3.0.64" background_size="initial" background_position="top_left" background_repeat="repeat"] 
 
 # Smartphone App Coming Soon
 
